@@ -53,7 +53,7 @@
             <div class="background">
                 <div class="title col-md-3">
                     <h2>Capiteux vin </h2>
-                    <p>Faites d'epreuve des flaveurs nouvelles de vin avec grande qualite et petit prix</p>
+                    <p>Faites d'épreuve des flaveurs nouvelles de vin avec grande qualité et petit prix</p>
                     <img src="img/grape.png" alt="" />
                     <a href="shop.php"><button class="button-start">Commencer</button></a>
                 </div>
@@ -69,12 +69,12 @@
                     <h2>Qui sommes-nous?</h2>
                     <h3>Meilleur magasin de vin</h3>
                     <img src="img/leaves.png" alt="" />
-					<p>Pour produire les grands vins vous avez besoin d'un peu de ingredients. En effet,
+					<p>Pour produire de grands vins vous avez besoin d'un peu de ingredients. En effet,
 tous les tels choses que le bon sol, les verges verts, la lumiere du soleil, la vigne fructifere
-et les bons bailles sont necessaires. Les vrai grands vins requérant 
-quelque chose de plus - le travaille penble et la passion.</p>
-                    <p>Notre raison pour l'existence est augmenter la qualite de la vie par offrir
-                des vins qui vont ajouter la joie et creer les souvenirs qui durent.</p>
+et les bons fûts sont nécessaires. Les vrais grands vins requérant 
+quelque chose de plus - le travail pénible et la passion.</p>
+                    <p>Notre raison pour l'existence consiste en augmentation de la qualité de la vie par offrir
+                des vins qui vont ajouter la joie et créer les souvenirs qui durent.</p>
 				</div>
 			</div>
 			<div class="row">
@@ -82,10 +82,10 @@ quelque chose de plus - le travaille penble et la passion.</p>
 					<h2>Pourquoi nous?</h2>
 					<h3>Le vin le plus savoureux</h3>
 					<img src="img/leaves.png" alt="" />
-					<p>C'est agreable a vous apporter les vins, qui sont produit de beaucoup de vingobles remarquables.
-Nous collaborons avec notre viticulteurs fantastiques en France, Italie, Espagne et autre.
-Chaque bouteillle du vin que nous offrons a notre commitment de produire les flavuers qui sont realisees du sol unique du chaque vingoble.</p>
-					<p>Chaque vin est une specifuque, individuelle expression de tous les deux des fruits 
+					<p>C'est agréable à vous apporter les vins, qui sont produits par beaucoup de vingobles remarquables.
+Nous collaborons avec notre viticulteurs fantastiques en France, Italie, Espagne et autres.
+Chaque bouteille du vin que nous offrons a notre relation de produire les flavuers qui sont réalisées du sol unique du chaque vingoble.</p>
+					<p>Chaque vin est une spécifique, individuelle expression de tous les deux des fruits 
 et le metier du viticulteur.</p>
 				</div>
 				<div class="about-img col-md-6">
