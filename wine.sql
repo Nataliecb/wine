@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+TEST 
+=======
 -- phpMyAdmin SQL Dump
 -- version 4.0.10.10
 -- http://www.phpmyadmin.net
@@ -101,7 +104,7 @@ CREATE TABLE IF NOT EXISTS `colors` (
 
 INSERT INTO `colors` (`id_color`, `name`, `image`) VALUES
 (1, 'blanc', 'blanc.png'),
-(2, 'rosé', 'rosé.png'),
+(2, 'rose', 'rose.png'),
 (3, 'rouge', 'rouge.png');
 
 -- --------------------------------------------------------
@@ -303,3 +306,4 @@ ALTER TABLE `wines`
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+>>>>>>> 263091530baabeaca1f72c645d4e8073740e3c2a

@@ -29,7 +29,7 @@
             <img src="img/gallery/event.jpg" class="pic-image" alt="" />
             <span class="photo-info effect">
                 <h2>Les soirées joyeuses</h2>
-                <p>Avec notre vin vos soirées vont passer plus chaudes et plus agréables</p>
+                <p>Avec notre vin vos soirées vont passer plus cordialement et plus agréablement</p>
                 <h4>29-10-2016</h4>
             </span>
         </div>
@@ -37,7 +37,7 @@
             <img src="img/gallery/grape.jpg" class="pic-image" alt="" />
             <span class="photo-info effect">
                 <h2>Nos plantations</h2>
-                <p>Nous cultivons des raisins sur les meilleures plantations</p>
+                <p>Nous cultivons la vigne sur les meilleures vignobles</p>
                 <h4>03-11-2016</h4>
             </span>
         </div>
@@ -52,7 +52,7 @@
         <div class="photo col-md-4">
             <img src="img/gallery/glasses.jpg" class="pic-image" alt="" />
             <span class="photo-info effect">
-                <h2>Avantage du vin</h2>
+                <h2>Les avantages du vin</h2>
                 <p>Le vin rouge est très bon pour notre santé</p>
                 <h4>20-11-2016</h4>
             </span>
@@ -61,7 +61,7 @@
             <img src="img/gallery/wine.jpg" class="pic-image" alt="" />
             <span class="photo-info effect">
                 <h2>Maturation du vin</h2>
-                <p>Le fût dote le vin de son caractère boisé et de cette odeur vanillée si typique qui signe le passage sous bois.</p>
+                <p>Le fût dote le vin de son caractère boisé et de cette odeur vanillée si typique qui signe le passage sous bois</p>
                 <h4>22-11-2016</h4>
             </span>
         </div>
