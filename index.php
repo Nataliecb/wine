@@ -53,7 +53,7 @@
             <div class="background">
                 <div class="title col-md-3">
                     <h2>Capiteux vin </h2>
-                    <p>Faites d'epreuve des flaveurs nouvelles de vin avec grande qualite et petit prix</p>
+                    <p>Faites d'épreuve des flaveurs nouvelles de vin avec grande qualité et petit prix</p>
                     <img src="img/grape.png" alt="" />
                     <a href="shop.php"><button class="button-start">Commencer</button></a>
                 </div>
