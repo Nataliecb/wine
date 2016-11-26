@@ -101,7 +101,7 @@ CREATE TABLE IF NOT EXISTS `colors` (
 
 INSERT INTO `colors` (`id_color`, `name`, `image`) VALUES
 (1, 'blanc', 'blanc.png'),
-(2, 'rosé', 'rosé.png'),
+(2, 'rose', 'rose.png'),
 (3, 'rouge', 'rouge.png');
 
 -- --------------------------------------------------------
