@@ -29,7 +29,7 @@
             <img src="img/gallery/event.jpg" class="pic-image" alt="" />
             <span class="photo-info effect">
                 <h2>Les soirées joyeuses</h2>
-                <p>Avec notre vin vos soirées vont passer plus chaudes et plus agréables</p>
+                <p>Avec notre vin vos soirées vont passer plus cordialement et plus agréablement</p>
                 <h4>29-10-2016</h4>
             </span>
         </div>
